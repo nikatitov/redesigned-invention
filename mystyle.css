@@ -1,8 +1,8 @@
 body {
-	background-color: black;
-}
+	background-color: peach;
 
-p {
-	background-color: lightsteelblue;
-	color: indigo;
+
+font-style: italic; 
+border: thick double #32a1ce;
+font-size: 80%;
 }
