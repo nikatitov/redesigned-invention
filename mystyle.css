@@ -3,10 +3,10 @@ body {
 
 font: caption;
         font-style: italic; 
-        border: thick double #32a1ce;
         font-size: 80%;
 	
 }
 
-p { background-color: wheat;
+p { background-color: aliceblue;
+border: thick double #32a1ce;
 }
